@@ -1,0 +1,2 @@
+# original-product-Spotter
+originalapp

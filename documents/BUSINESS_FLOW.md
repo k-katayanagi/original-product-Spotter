@@ -2,6 +2,10 @@
 
 ## 業務フローの作成
 
+個人使用-業務フロー  
+[Spotide -個人使用.drawio.pdf](https://github.com/user-attachments/files/17992449/Spotide.-.drawio.pdf)
+
+
 ### 目的
 
 - オリジナルプロダクトの業務フローを決めます。業務フローとは、登場人物ごとに業務（行動）の流れを図にすることです。

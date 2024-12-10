@@ -3,7 +3,8 @@
 ## 業務フローの作成
 
 個人使用-業務フロー  
-[Spotide -個人使用.drawio.pdf](https://github.com/user-attachments/files/17992449/Spotide.-.drawio.pdf)
+[Spotide.drawio.pdf](https://github.com/user-attachments/files/18074638/Spotide.drawio.pdf)
+
 
 
 ### 目的

@@ -2,7 +2,7 @@
 
 ## 業務フローの作成
 
-個人使用-業務フロー  
+業務フロー  
 [Spotide.drawio.pdf](https://github.com/user-attachments/files/18074638/Spotide.drawio.pdf)
 
 

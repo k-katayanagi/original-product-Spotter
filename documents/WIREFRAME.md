@@ -19,3 +19,8 @@
 図を記載するツールは何でも良いのですが、Figma, XD などがおすすめです。
 
 提出する際は、オリジナルプロダクトの GitHub のリポジトリの documents ディレクトリ内にワイヤーフレームについてまとめた md ファイルを作成し図を記載してください。
+
+
+
+### ワイヤーフレーム作成用要件整理資料
+[Spotide情報設計.xlsx](https://github.com/user-attachments/files/18192221/Spotide.xlsx)
